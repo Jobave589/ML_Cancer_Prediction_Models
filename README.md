@@ -9,7 +9,7 @@ Se han empleado tres datasets diferentes para entrenar y evaluar el modelo. A co
 Dataset 1:
 
 Descripción: Contiene información sobre antecedentes familiares, hábitos de vida y factores de riesgo.
-Acceso: Público. Disponible en [enlace al dataset].
+Acceso: Público. Disponible en [[enlace al dataset]](https://github.com/Jobave589/ML_Cancer_Prediction_Models/blob/main/src/data_sample/cancer%20patient%20data%20sets.csv).
 Dataset 2:
 
 Descripción: Incluye datos clínicos como resultados de análisis de sangre y pruebas de laboratorio.
