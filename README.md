@@ -68,7 +68,7 @@ Three datasets were used in this project:
 Dataset 1:
 
 Description: Contains information about family history, lifestyle habits, and risk factors.
-Access: Public. Available at [dataset link].
+Access: Public. Available at [[dataset link]](https://github.com/Jobave589/ML_Cancer_Prediction_Models/blob/main/src/data_sample/cancer%20patient%20data%20sets.csv).
 
 Dataset 2:
 
