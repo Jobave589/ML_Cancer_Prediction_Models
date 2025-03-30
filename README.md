@@ -10,10 +10,12 @@ Dataset 1:
 
 Descripción: Contiene información sobre antecedentes familiares, hábitos de vida y factores de riesgo.
 Acceso: Público. Disponible en [[enlace al dataset]](https://github.com/Jobave589/ML_Cancer_Prediction_Models/blob/main/src/data_sample/cancer%20patient%20data%20sets.csv).
+
 Dataset 2:
 
 Descripción: Incluye datos clínicos como resultados de análisis de sangre y pruebas de laboratorio.
-Acceso: Público. Disponible en [enlace al dataset].
+Acceso: Público. Disponible en [[enlace al dataset]](https://github.com/Jobave589/ML_Cancer_Prediction_Models/blob/main/src/data_sample/lung_cancer_prediction_dataset.csv).
+
 Dataset 3:
 
 Descripción: Proporciona datos demográficos y antecedentes médicos de los pacientes.
@@ -67,10 +69,12 @@ Dataset 1:
 
 Description: Contains information about family history, lifestyle habits, and risk factors.
 Access: Public. Available at [dataset link].
+
 Dataset 2:
 
 Description: Includes clinical data such as blood test results and laboratory analyses.
-Access: Public. Available at [dataset link].
+Access: Public. Available at [[dataset link]](https://github.com/Jobave589/ML_Cancer_Prediction_Models/blob/main/src/data_sample/lung_cancer_prediction_dataset.csv).
+
 Dataset 3:
 
 Description: Provides demographic and medical history data of patients.
