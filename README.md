@@ -19,7 +19,7 @@ Acceso: Público. Disponible en [[enlace al dataset]](https://github.com/Jobave5
 Dataset 3:
 
 Descripción: Proporciona datos demográficos y antecedentes médicos de los pacientes.
-Acceso: Público. Disponible en [enlace al dataset].
+Acceso: Público. Disponible en [[enlace al dataset]](https://github.com/Jobave589/ML_Cancer_Prediction_Models/blob/main/src/data_sample/thyroid_cancer_risk_data.csv).
 
 Solución adoptada
 Se ha implementado un pipeline de Machine Learning que incluye las siguientes etapas:
@@ -78,7 +78,7 @@ Access: Public. Available at [[dataset link]](https://github.com/Jobave589/ML_Ca
 Dataset 3:
 
 Description: Provides demographic and medical history data of patients.
-Access: Public. Available at [dataset link].
+Access: Public. Available at [[dataset link]](https://github.com/Jobave589/ML_Cancer_Prediction_Models/blob/main/src/data_sample/thyroid_cancer_risk_data.csv).
 
 Solution Adopted
 The project implements a Machine Learning pipeline with the following steps:
